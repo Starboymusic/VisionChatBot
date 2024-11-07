@@ -32,12 +32,12 @@ async def repo(_, m: Message):
           InlineKeyboardButton("sʜɪᴠᴀɴsʜᴜ", url="https://t.me/YKD_KOREAN_DRAMA"),
           ],
                [
-                InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/itsmeshivanshu"),
+                InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/Star_Boy_96"),
 
 ],
 [
-              InlineKeyboardButton("ᴍᴜsɪᴄ", url=f"https://github.com/TheChampu/ChampuMusic"),
-              InlineKeyboardButton("ᴄʜᴀᴛʙᴏᴛ", url=f"https://github.com/TheChampu/ChatBot")
+              InlineKeyboardButton("ᴍᴜsɪᴄ", url=f"https://t.me/Star_Boy_96_vibes"),
+              InlineKeyboardButton("ᴄʜᴀᴛʙᴏᴛ", url=f"https://t.me/Star_Boy_96_vibes")
               ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
