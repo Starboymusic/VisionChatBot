@@ -28,8 +28,8 @@ async def repo(_, m: Message):
           InlineKeyboardButton("ᴀᴅᴅ ᴍᴇ", url=f"https://t.me/{ChampuBot.username}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("ᴄʜᴧᴍᴘᴜ", url="https://t.me/Star_Boy_96_vibes"),
-          InlineKeyboardButton("sʜɪᴠᴀɴsʜᴜ", url="https://t.me/YKD_KOREAN_DRAMA"),
+          InlineKeyboardButton("Starboy", url="https://t.me/Star_Boy_96_vibes"),
+          InlineKeyboardButton("YKD", url="https://t.me/YKD_KOREAN_DRAMA"),
           ],
                [
                 InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/Star_Boy_96"),
