@@ -8,7 +8,7 @@ from Champu import ChampuBot
 
 
 start_txt = """**
-✪ 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗖𝗵𝗮𝗺𝗽𝘂 𝗥𝗲𝗽𝗼𝘀 ✪
+✪ 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗦𝘁𝗮𝗿𝗯𝗼𝘆 𝗥𝗲𝗽𝗼𝘀 ✪
 
 ➲ ᴇᴀsʏ ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ✰  
 ➲ ɴᴏ ʙᴀɴ ɪssᴜᴇs ✰  
@@ -28,16 +28,16 @@ async def repo(_, m: Message):
           InlineKeyboardButton("ᴀᴅᴅ ᴍᴇ", url=f"https://t.me/{ChampuBot.username}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("ᴄʜᴧᴍᴘᴜ", url="https://t.me/TheChampu"),
-          InlineKeyboardButton("sʜɪᴠᴀɴsʜᴜ", url="https://t.me/TheShivanshu"),
+          InlineKeyboardButton("YKD", url="https://t.me/YKD_KOREAN_DRAMA"),
+          InlineKeyboardButton("STARBOY", url="https://t.me/Star_Boy_96_vibes"),
           ],
                [
-                InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/itsmeshivanshu"),
+                InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/Star_Boy_96"),
 
 ],
 [
-              InlineKeyboardButton("ᴍᴜsɪᴄ", url=f"https://github.com/TheChampu/ChampuMusic"),
-              InlineKeyboardButton("ᴄʜᴀᴛʙᴏᴛ", url=f"https://github.com/TheChampu/ChatBot")
+              InlineKeyboardButton("YKD", url=f"https://t.me/YKD_KOREAN_DRAMA"),
+              InlineKeyboardButton("STARBOY", url=f"https://t.me/Star_Boy_96_vibes")
               ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
