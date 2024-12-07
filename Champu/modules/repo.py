@@ -32,7 +32,7 @@ async def repo(_, m: Message):
           InlineKeyboardButton("STARBOY", url="https://t.me/Star_Boy_96_vibes"),
           ],
                [
-                InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/Star_Boy_96"),
+                InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/Starboy_012"),
 
 ],
 [
